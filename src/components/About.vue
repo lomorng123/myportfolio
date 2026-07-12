@@ -67,6 +67,16 @@
 @media (max-width: 768px) {
   .about-content {
     grid-template-columns: 1fr;
+    text-align: center;
+  }
+  .skills-list {
+    justify-content: center;
+  }
+  .timeline-section h3 {
+    text-align: center;
+  }
+  .timeline-section li {
+    text-align: left;
   }
 }
 

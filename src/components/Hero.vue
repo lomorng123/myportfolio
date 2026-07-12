@@ -238,6 +238,28 @@ onMounted(() => {
   100% { transform: scale(1.2); box-shadow: 0 0 60px var(--primary-color); }
 }
 
+@media (max-width: 992px) {
+  .hero-content {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+  }
+  .hero-text {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .name {
+    justify-content: center;
+  }
+  .hero-visual {
+    transform: scale(0.6);
+    margin-top: -50px;
+    min-height: auto;
+  }
+}
+
 .greeting {
   color: var(--primary-color);
   font-family: var(--font-body);

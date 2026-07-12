@@ -117,4 +117,18 @@ onUnmounted(() => {
 .btn-contact:hover {
   background: rgba(56, 189, 248, 0.1);
 }
+
+@media (max-width: 768px) {
+  .nav-content {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .nav-links {
+    gap: 1rem;
+    overflow-x: auto;
+    width: 100%;
+    justify-content: center;
+    padding-bottom: 0.5rem;
+  }
+}
 </style>
