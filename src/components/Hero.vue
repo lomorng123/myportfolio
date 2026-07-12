@@ -243,6 +243,7 @@ onMounted(() => {
     flex-direction: column;
     text-align: center;
     justify-content: center;
+    margin-top: 2rem;
   }
   .hero-text {
     max-width: 100%;
@@ -252,12 +253,28 @@ onMounted(() => {
   }
   .name {
     justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  .role {
+    font-size: clamp(30px, 8vw, 45px);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
   }
   .hero-visual {
-    transform: scale(0.6);
-    margin-top: -50px;
     min-height: auto;
+    margin-top: 2rem;
   }
+  .orbit-container {
+    width: 280px;
+    height: 280px;
+  }
+  .ring-1 { width: 140px; height: 140px; }
+  .ring-2 { width: 210px; height: 210px; }
+  .ring-3 { width: 280px; height: 280px; }
+  .orbit-center { width: 45px; height: 45px; }
 }
 
 .greeting {
