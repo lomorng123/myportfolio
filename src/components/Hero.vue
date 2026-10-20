@@ -25,7 +25,7 @@
             <span class="jump-word" style="animation-delay: 0.6s">web.</span>
           </h1>
           <p class="description">
-            I'm a Full Stack Developer specializing in building exceptional digital experiences. Currently, I'm focused on developing robust web applications using React JS, Vue JS, Laravel, and modern backend technologies.
+            I'm a Web Developer specializing in building exceptional digital experiences. Currently, I'm focused on developing robust web applications using React JS, Vue JS, Laravel, and modern backend technologies.
           </p>
           <div class="hero-actions">
             <a href="#projects" class="btn-primary" v-magnetic>Check out my work</a>

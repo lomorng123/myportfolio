@@ -5,7 +5,7 @@
       <div class="about-content">
         <div class="about-text" v-reveal>
           <p>
-            Hello! My name is Thoeung Lomorng. I am currently a 4rd-year student and a passionate Full Stack Developer. I am skilled in building robust frontend interfaces using HTML, CSS, JavaScript, React JS, Vue JS, jQuery, Bootstrap, and Tailwind CSS.
+            Hello! My name is Thoeung Lomorng. I am currently a 4rd-year student and a passionate Web Developer. I am skilled in building robust frontend interfaces using HTML, CSS, JavaScript, React JS, Vue JS, jQuery, Bootstrap, and Tailwind CSS.
           </p>
           <p>
             I specialize in building scalable backends with PHP and Laravel, while also crafting highly interactive frontend experiences using modern JavaScript frameworks like React and Vue. I thrive in environments where I can tackle complex problems and deliver clean, maintainable code.
@@ -23,7 +23,7 @@
               <h3>Experience</h3>
               <ul>
                 <li>
-                  <strong>Full Stack Developer (Internship)</strong>
+                  <strong>Web Developer (Internship)</strong>
                   <p>Developed responsive web applications and RESTful APIs using Laravel Sanctum.</p>
                   <p>Built complete CRUD systems, integrated Bakong KHQR payment for cashless transactions, and designed modern UI using React JS and Tailwind CSS.</p>
                 </li>
