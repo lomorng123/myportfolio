@@ -11,11 +11,11 @@
           <p>📧 thoeunglomorng1@gmail.com</p>
           <p>📍 Russian Blvd, Sangkat Teukthla, Khan Sen Sok, Phnom Penh</p>
         </div>
-        <a href="mailto:thoeunglomorng1@gmail.com" class="btn-primary" v-magnetic>Say Hello</a>
+        <a href="https://t.me/Lomorng123" class="btn-primary" v-magnetic>Say Hello</a>
         
         <div class="social-links">
-          <a href="#" aria-label="GitHub" v-magnetic>GitHub</a>
-          <a href="#" aria-label="LinkedIn" v-magnetic>LinkedIn</a>
+          <a href="https://github.com/lomorng123" aria-label="GitHub" v-magnetic>GitHub</a>
+          <a href="https://www.linkedin.com/in/lomorng-thoeung-93067638a/" aria-label="LinkedIn" v-magnetic>LinkedIn</a>
         </div>
       </div>
     </div>
